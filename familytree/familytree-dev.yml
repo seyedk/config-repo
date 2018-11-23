@@ -12,4 +12,4 @@ tracer.property: "I AM THE DEFAULT"
 #spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.PostgreSQLDialect"
 
 
-spring.jpa.hibernate.ddl-auto: none
+#spring.jpa.hibernate.ddl-auto: none
